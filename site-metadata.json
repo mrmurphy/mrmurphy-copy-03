@@ -1,0 +1,68 @@
+{
+    "palette": "yellow",
+    "header": {
+        "title": "Murphy Randle",
+        "tagline": "I’m a professional software writer specialized in Web technologies and engaged in  indie application development. I consider myself to be a man of faith. I pursue honesty, integrity, and compassion.",
+        "logo_img_alt": "Fjord Logo",
+        "background_img": "images/header-bg.jpg",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "About",
+                "url": "/about",
+                "style": "link"
+            },
+            {
+                "label": "Style Guide",
+                "url": "/style-guide",
+                "style": "link"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact",
+                "style": "link"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/splodingsocks",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "GitHub",
+                "url": "https://github.com/mrmurphy",
+                "style": "icon",
+                "icon_class": "github",
+                "new_window": true
+            },
+            {
+                "label": "DEV",
+                "url": "https://dev.to/mrmurphy",
+                "style": "icon",
+                "icon_class": "dev",
+                "new_window": true
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "links": [
+            {
+                "label": "Generated from DEV",
+                "url": "https://dev.to/connecting-with-stackbit",
+                "new_window": true,
+                "style": "link"
+            }
+        ]
+    },
+    "title": "Stackbit Fjord Theme"
+}
